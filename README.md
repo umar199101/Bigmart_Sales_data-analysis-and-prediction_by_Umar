@@ -1,0 +1,2 @@
+# Bigmart_Sales_data-analysis-and-prediction_by_Umar
+The aim of the project "Bigmart Sales Data Analysis and Prediction" is to analyze the historical sales data of a retail store called Bigmart and develop a predictive model that can forecast the sales of its products. By leveraging data analysis techniques and machine learning algorithms, the project seeks to uncover insights and patterns from the sales data, understand the factors that influence sales, and build a predictive model that can accurately forecast future sales.
